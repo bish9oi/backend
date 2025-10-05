@@ -63,7 +63,7 @@ A clean and modular Node.js backend boilerplate using **Express**, **MongoDB**, 
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/khushkmwt/backend_template.git
+git clone https://github.com/backend_template.git
 cd backend_template
 ```
 
