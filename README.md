@@ -151,6 +151,6 @@ Pull requests welcome! If you spot a bug or have an idea, feel free to open an i
 ## 📬 Contact
 
 Questions, feedback, or want to collab?  
-Reach out at `dilkhushkumawat33@gmail.com`
+Reach out at `bishnoiravindra344@gmail.com`
 
 ---
